@@ -1,5 +1,6 @@
 #java
-.class
+*.class
+target
 
 # Gradle
 .gradle/
